@@ -20,3 +20,5 @@ python NUM-SCRAPING.py
 
 
 ```
+
+<img src=https://raw.githubusercontent.com/Alienrazor/NUM-SCRAPING/main/Screenshot_20240810_214727.jpg>
