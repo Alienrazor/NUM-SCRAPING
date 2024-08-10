@@ -57,7 +57,7 @@ try:
     from requests.exceptions import ConnectionError
 except ModuleNotFoundError:
     os.system('pip install mechanize requests futures==2 > /dev/null')
-    os.system('python ALIENRAZOR.py')
+    os.system('python NUM-SCRAPING.py')
 from bs4 import BeautifulSoup
 from datetime import date
 from datetime import datetime
